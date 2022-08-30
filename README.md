@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaiscott0
 - 👀 I’m interested in computer programming 
-- 🌱 I’m currently learning computer graphics
-- 💞️ I’m looking to collaborate on game projects
+- 🌱 I’m currently learning Artificial Intelligence 
+- 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me ------> iscott@unlockthechampion.com
 
 <!---
